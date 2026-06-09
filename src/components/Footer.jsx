@@ -24,7 +24,7 @@ export default function Footer({ isWhiteTheme }) {
       </div>
       <div className="footer-bottom">
         <p>
-          © {new Date().getFullYear()} jobHive. All rights reserverd.
+          © {new Date().getFullYear()} jobHive. All rights reserved.
         </p>
 
       </div>
